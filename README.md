@@ -64,7 +64,7 @@ This will run the HED network algorithm and produce edge images
 
 ### Usage
 To run the CNN & GAN based part of our project
-Please create the following folders and structure them in the cnn&gan folder
+Please create the following folders and structure them in the cnn-and-gan folder
 - `colorFolder` contains the color image used for testing/HED detection
 - `outputFolder` used to hold output images of the tested model / generated HED images
 - `train_val\train\trainInput` contains input image for training
